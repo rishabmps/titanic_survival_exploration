@@ -1,4 +1,3 @@
-# Project 0: Introduction and Fundamentals
 ## Titanic Survival Exploration
 
 ### Install
