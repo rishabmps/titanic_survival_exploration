@@ -1,2 +1,2 @@
 ./ linguist-vendored
-Report.html linguist-vendored=true
+report.html linguist-vendored=true
